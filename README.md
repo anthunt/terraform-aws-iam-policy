@@ -1,6 +1,7 @@
 # Managing AWS IAM Policy for terraform
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ed8e75d3a1194763b8a67582bbe3495b)](https://app.codacy.com/gh/anthunt/terraform-aws-iam-policy?utm_source=github.com&utm_medium=referral&utm_content=anthunt/terraform-aws-iam-policy&utm_campaign=Badge_Grade)
+[![Terraform](https://img.shields.io/badge/Terraform-Registry:lastest-blue.svg)](https://registry.terraform.io/modules/anthunt/iam-policy/aws)
 
 ## 1. Module Usage
 > ```terraform
